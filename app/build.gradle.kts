@@ -12,8 +12,8 @@ android {
         applicationId = "pl.nawyki.app"
         minSdk = 26
         targetSdk = 37
-        versionCode = 4
-        versionName = "4.0"
+        versionCode = 5
+        versionName = "4.1"
     }
 
     buildFeatures {
